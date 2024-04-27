@@ -1,5 +1,6 @@
 
-# carvalhoabDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Brazilian National Network of Cardiovascular Genomics website
+# Website da Rede Nacional de Genômica Cardiovascular (RENOMICA)
 
 Visit **[carvalhoab.github.io/renomica](https://carvalhoab.github.io/renomica)** 🚀
 
