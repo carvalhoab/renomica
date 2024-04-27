@@ -1,6 +1,5 @@
 
-# Brazilian National Network of Cardiovascular Genomics website
-# Website da Rede Nacional de Genômica Cardiovascular (RENOMICA)
+# Rede Nacional de Genômica Cardiovascular
 
 Visit **[carvalhoab.github.io/renomica](https://carvalhoab.github.io/renomica)** 🚀
 
