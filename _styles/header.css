@@ -4,7 +4,7 @@ header {
   align-items: center;
   flex-wrap: wrap;
   gap: 50px;
-  padding: 20px;
+  padding: 10px;
   box-shadow: var(--shadow);
   position: sticky !important;
   top: 0;
@@ -99,7 +99,7 @@ nav > a:hover {
   color: var(--primary);
 }
 
-@media (max-width: 700px) {
+@media (max-width: 500px) {
   header:not([data-big]) {
     justify-content: flex-end;
   }
@@ -120,7 +120,7 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 50px 20px;
+  padding: 20px 20px;
   top: unset;
 }
 header[data-big] .home {
