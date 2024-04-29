@@ -19,7 +19,7 @@ Mas saiba que nosso tempo de resposta pode ser mais longo do que o esperado. Res
 {%
   include button.html
   type="address"
-  text='Endereço"
+  text="Endereço"
   tooltip="Nossa localização no Google Maps"
   link="https://maps.app.goo.gl/19NQiSat97TUhWQv9"
 %}
