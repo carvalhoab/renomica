@@ -11,9 +11,9 @@ proofer: false
 # site social media and other links
 links:
   email: renomica.brasil@gmail.com
-  github: https://github.com/carvalhoab/renomica
-  instagram: https://www.instagram.com/renomica.brasil/
-  youtube: https://www.youtube.com/channel/UCrqJIHxDKkAZIjt4tnp7RmQ
+  github: carvalhoab/renomica
+  instagram: renomica.brasil
+  youtube: channel/UCrqJIHxDKkAZIjt4tnp7RmQ
 
 ### jekyll settings
 
