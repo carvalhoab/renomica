@@ -3,7 +3,14 @@
 
 A Rede Nacional de Genômica cardiovascular (RENOMICA) é uma iniciativa de cientistas e profissionais de saúde de todo o Brasil para desenvolver uma linha de cuidado em genômica cardiovascular para o Sistema Único de Saúde (SUS).
 
-[https://www.youtube.com/watch?v=002WtKTbLRQ](https://www.youtube.com/watch?v=002WtKTbLRQ)
+{%
+  include button.html
+  link="https://www.youtube.com/watch?v=002WtKTbLRQ"
+  text="Veja o nosso vídeo de apresentação"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
 
 {% include section.html %}
 
