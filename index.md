@@ -15,7 +15,7 @@ Fazemos sequenciamento de DNA de pacientes do SUS com doenças cardiovasculares.
 
 {%
   include button.html
-  link="sobre a rede"
+  link="Sobre"
   text="Saiba mais"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -27,14 +27,14 @@ Fazemos sequenciamento de DNA de pacientes do SUS com doenças cardiovasculares.
 {%
   include feature.html
   image="images/image3.jpg"
-  link="sobre a rede"
+  link="Sobre"
   title="Sobre a Rede"
   text=text
 %}
 
 {% capture text %}
 
-A Rede tem projetos de pesquisa em doenças cardiovasculares hereditárias (DCH) e doença arterial coronariana (DAC). E fazemos parte do Genomas SUS!
+A Rede tem projetos de pesquisa em doenças cardiovasculares hereditárias (DCH) e doença arterial coronariana (DAC). Fazemos parte do Genomas SUS!
 
 {%
   include button.html
