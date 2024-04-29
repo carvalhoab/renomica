@@ -15,7 +15,7 @@ Fazemos sequenciamento de DNA de pacientes do SUS com doenças cardiovasculares.
 
 {%
   include button.html
-  link="Sobre"
+  link="sobre"
   text="Saiba mais"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -27,7 +27,7 @@ Fazemos sequenciamento de DNA de pacientes do SUS com doenças cardiovasculares.
 {%
   include feature.html
   image="images/image3.jpg"
-  link="Sobre"
+  link="sobre"
   title="Sobre a Rede"
   text=text
 %}
