@@ -2,26 +2,21 @@
 title: Projetos
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: 
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Projetos
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+No momento, a RENOMICA está desenvolvendo dois projetos.
 
-{% include tags.html tags="publication, resource, website" %}
+## RENOMICA-DAC
 
-{% include search-info.html %}
-
-{% include section.html %}
-
-## Featured
-
-{% include list.html component="card" data="projects" filters="group: featured" %}
+Este projeto investiga a herdabilidade da doença arterial coronariana (DAC) na população brasileira. Queremos entender como fatores genéticos aumentam o risco dessa doença. Em breve, iremos iniciar o recrutamento de participantes no Instituto Nacional de Cardiologia.
 
 {% include section.html %}
 
-## More
+## RENOMICA-DCH
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+O estudo de doenças cardiovasculares hereditárias (DCH) começou em 2021 e e o recrutamento foi concluído em 2023. Os dados estão em análise e estamos trabalhando no retorno de resultados para todos os participantes. Em breve, reabriremos o recrutamento de uma segunda fase do projeto, em parceria com o Hcor.
+
+As doenças investigadas nesse projeto são:
