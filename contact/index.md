@@ -7,7 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contato
 
-Quer falar com a gente? Mande um e-mail! Mas saiba que nosso tempo de resposta pode ser mais longo que o esperado. Responderemos tão logo quanto possível.
+Quer falar com a gente? Mande um e-mail! 
+Mas saiba que nosso tempo de resposta pode ser mais longo do que o esperado. Responderemos tão logo quanto possível.
 
 {%
   include button.html
@@ -17,7 +18,8 @@ Quer falar com a gente? Mande um e-mail! Mas saiba que nosso tempo de resposta p
 %}
 {%
   include button.html
-  type="Endereço"
+  type="address"
+  text='Endereço"
   tooltip="Nossa localização no Google Maps"
   link="https://maps.app.goo.gl/19NQiSat97TUhWQv9"
 %}
