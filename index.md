@@ -1,7 +1,7 @@
 ---
 ---
 {%
-include.feature.html
+include feature.html
 image="degrade.png"
 %}
 
@@ -15,7 +15,7 @@ A Rede Nacional de Genômica cardiovascular (RENOMICA) é uma iniciativa de cien
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+A missão da RENOMICA é blablabla.
 
 {%
   include button.html
