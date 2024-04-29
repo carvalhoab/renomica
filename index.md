@@ -30,7 +30,7 @@ A missão da RENOMICA é blablabla.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/image3.jpg"
   link="research"
   title="Sobre a Rede"
   text=text
@@ -53,7 +53,7 @@ A Rede tem projetos de pesquisa em doenças cardiovasculares hereditárias (DCH)
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/image2.jpg"
   link="projects"
   title="Nossos projetos"
   flip=true
