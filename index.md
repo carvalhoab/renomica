@@ -45,7 +45,7 @@ A Rede tem projetos de pesquisa em doenças cardiovasculares hereditárias e doe
 
 {%
   include button.html
-  link="Projetos"
+  link="projetos"
   text="Veja os projetos"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -57,7 +57,7 @@ A Rede tem projetos de pesquisa em doenças cardiovasculares hereditárias e doe
 {%
   include feature.html
   image="images/image4.jpg"
-  link="Projetos"
+  link="projetos"
   title="Nossos projetos"
   flip=true
   style="bare"
@@ -70,7 +70,7 @@ A Rede conta com a contribuição de dezenas de profissionais de todo o país.
 
 {%
   include button.html
-  link="Equipe"
+  link="equipe"
   text="Conheça a equipe"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -82,7 +82,7 @@ A Rede conta com a contribuição de dezenas de profissionais de todo o país.
 {%
   include feature.html
   image="images/mapa.png"
-  link="Equipe"
+  link="equipe"
   title="Quem somos"
   text=text
 %}
