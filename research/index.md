@@ -5,23 +5,14 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Sobre a Rede
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+A RENOMICA é um projeto coordenado pelo Instituto Nacional de Cardiologia em parceria com a Universidade Federal do Rio de Janeiro. Entretanto, somos uma rede de abrangência nacional com a participação de diversas instituições de ensino, pesquisa e assistência à saúde brasileiras.
 
 {% include section.html %}
 
-## All
+## Quem financia?
 
-{% include search-box.html %}
 
-{% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+## Quais instituições participam?
