@@ -9,6 +9,24 @@ nav:
 
 A RENOMICA é um projeto coordenado pelo Instituto Nacional de Cardiologia em parceria com a Universidade Federal do Rio de Janeiro. Entretanto, somos uma rede de abrangência nacional com a participação de diversas instituições de ensino, pesquisa e assistência à saúde brasileiras.
 
+{% capture col1 %}
+
+{%
+  include figure.html
+  image="images/INC.png"
+%}
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include figure.html
+  image="images/UFRJ.png"
+%}
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
+
 {% include section.html %}
 
 ## Quem financia?
@@ -27,18 +45,10 @@ A RENOMICA é financiada pelo Departamento de Ciência e Tecnologia da Secretari
 
 {%
   include figure.html
-  image="images/decit.png"
-%}
-{% endcapture %}
-
-{% capture col3 %}
-
-{%
-  include figure.html
   image="images/genbr.png"
 %}
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% include cols.html col1=col1 col2=col2 %}
 
 ## Quais instituições participam?
