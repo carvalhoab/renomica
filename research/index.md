@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Sobre a Rede
 nav:
   order: 1
   tooltip: Published works
