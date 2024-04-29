@@ -41,7 +41,7 @@ Fazemos sequenciamento de DNA de pacientes do SUS com doenças cardiovasculares.
 
 {% capture text %}
 
-A Rede tem projetos de pesquisa em doenças cardiovasculares hereditárias (DCH) e doença arterial coronariana (DAC). Fazemos parte do Genomas SUS!
+A Rede tem projetos de pesquisa em doenças cardiovasculares hereditárias (DCH) e doença arterial coronariana (DAC). Fazemos parte do Genomas SUS.
 
 {%
   include button.html
@@ -66,7 +66,7 @@ A Rede tem projetos de pesquisa em doenças cardiovasculares hereditárias (DCH)
 
 {% capture text %}
 
-A Rede conta com a contribuição de dezenas de profissionais de todo o país. Quer contribuir? Entre em contato com a gente!
+A Rede conta com a contribuição de dezenas de profissionais de todo o país.
 
 {%
   include button.html
