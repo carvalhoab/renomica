@@ -81,7 +81,7 @@ A Rede conta com a contribuição de dezenas de profissionais de todo o país.
 
 {%
   include feature.html
-  image="images/mapa.png"
+  image="images/image1.png"
   link="equipe"
   title="Quem somos"
   text=text
