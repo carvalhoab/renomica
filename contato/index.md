@@ -8,7 +8,8 @@ nav:
 # {% include icon.html icon="fa-regular fa-envelope" %}Contato
 
 Quer falar com a gente? Mande um e-mail! 
-Mas saiba que nosso tempo de resposta pode ser mais longo do que o esperado. Responderemos tão logo quanto possível.
+
+Mas nosso tempo de resposta pode ser mais longo do que o esperado. Responderemos tão logo quanto possível.
 
 {%
   include button.html
