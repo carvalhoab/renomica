@@ -21,7 +21,7 @@ A RENOMICA é financiada pelo Departamento de Ciência e Tecnologia da Secretari
 
 {%
   include feature.html
-  image="images/image3.jpg"
+  image="images/genbr.png"
   link="https://www.gov.br/saude/pt-br/composicao/sectics/decit/genomas-brasil"
   %}
 
