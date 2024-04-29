@@ -11,11 +11,11 @@ A Rede Nacional de Genômica cardiovascular (RENOMICA) é uma iniciativa de cien
 
 {% capture text %}
 
-A missão da RENOMICA é blablabla.
+Fazemos sequenciamento de DNA de pacientes do SUS com doenças cardiovasculares. Nossos valores são: ciência, ética, excelência, respeito à autonomia e bem-estar dos pacientes.
 
 {%
   include button.html
-  link="research"
+  link="sobre a rede"
   text="Saiba mais"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -27,18 +27,18 @@ A missão da RENOMICA é blablabla.
 {%
   include feature.html
   image="images/image3.jpg"
-  link="research"
+  link="sobre a rede"
   title="Sobre a Rede"
   text=text
 %}
 
 {% capture text %}
 
-A Rede tem projetos de pesquisa em doenças cardiovasculares hereditárias (DCH) e doença arterial coronariana (DAC).
+A Rede tem projetos de pesquisa em doenças cardiovasculares hereditárias (DCH) e doença arterial coronariana (DAC). E fazemos parte do Genomas SUS!
 
 {%
   include button.html
-  link="projects"
+  link="Projetos"
   text="Veja os projetos"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -50,7 +50,7 @@ A Rede tem projetos de pesquisa em doenças cardiovasculares hereditárias (DCH)
 {%
   include feature.html
   image="images/image2.jpg"
-  link="projects"
+  link="Projetos"
   title="Nossos projetos"
   flip=true
   style="bare"
@@ -59,7 +59,7 @@ A Rede tem projetos de pesquisa em doenças cardiovasculares hereditárias (DCH)
 
 {% capture text %}
 
-A Rede conta com a contribuição de dezenas de profissionais de todo o país. 
+A Rede conta com a contribuição de dezenas de profissionais de todo o país. Quer contribuir? Entre em contato com a gente!
 
 {%
   include button.html
@@ -75,7 +75,7 @@ A Rede conta com a contribuição de dezenas de profissionais de todo o país.
 {%
   include feature.html
   image="images/image1.jpg"
-  link="team"
+  link="Equipe"
   title="Quem somos"
   text=text
 %}
