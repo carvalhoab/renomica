@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: Rede Nacional de Genômica Cardiovascular
+title: 
 subtitle: 
 description: 
 header: images/background.jpg
@@ -9,12 +9,10 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@carvalhoabDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: carvalhoabDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: carvalhoabDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: carvalhoabDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: renomica.brasil@gmail.com
+  github: https://github.com/carvalhoab/renomica
+  instagram: https://www.instagram.com/renomica.brasil/
+  youtube: https://www.youtube.com/channel/UCrqJIHxDKkAZIjt4tnp7RmQ
 
 ### jekyll settings
 
