@@ -7,7 +7,7 @@ A Rede Nacional de Genômica cardiovascular (RENOMICA) é uma iniciativa de cien
 
 {% include section.html %}
 
-## Highlights
+## Conheça a RENOMICA
 
 {% capture text %}
 
@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Saiba mais"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -28,18 +28,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Sobre a Rede"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+A Rede tem projetos de pesquisa em doenças cardiovasculares hereditárias (DCH) e doença arterial coronariana (DAC).
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Veja os projetos"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -51,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Nossos projetos"
   flip=true
   style="bare"
   text=text
@@ -59,12 +59,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+A Rede conta com a contribuição de dezenas de profissionais de todo o país. 
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Conheça a equipe
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -76,6 +76,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Quem somos"
   text=text
 %}
