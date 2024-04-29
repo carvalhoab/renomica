@@ -21,22 +21,22 @@ O estudo de doenças cardiovasculares hereditárias (DCH) começou em 2021 e e o
 
 As doenças investigadas nesse projeto são:
 1. Aortopatias
-    1. Aneurismas e disseções da aorta torácica hereditários
-    2. Síndrome de Marfan
-    3. Síndrome de Loeys-Dietz
-    4. Síndrome de Ehlers-Danlos (forma vascular)
+    a. Aneurismas e disseções da aorta torácica hereditários
+    b. Síndrome de Marfan
+    c. Síndrome de Loeys-Dietz
+    d. Síndrome de Ehlers-Danlos (forma vascular)
 2. Canalopatias
-    1. Síndrome do QT longo
-    2. Síndrome do QT curto
-    3. Síndrome de Brugada
-    4. Doença progressiva da condução cardíaca
-    5. Taquicardia ventricular polimórfica catecolaminérgica
+    a. Síndrome do QT longo
+    b. Síndrome do QT curto
+    c. Síndrome de Brugada
+    d. Doença progressiva da condução cardíaca
+    e. Taquicardia ventricular polimórfica catecolaminérgica
 3. Cardiomiopatias
-    1. Hipertrófica
-    2. Dilatada
-    3. Restritiva
-    4. Não compactada
-    5. Arritmogênica
+    a. Hipertrófica
+    b. Dilatada
+    c. Restritiva
+    d. Não compactada
+    e. Arritmogênica
 4. Hipercolesterolemia familiar
 5. Hipertensão arterial pulmonar
 6. Morte súbita
