@@ -2,7 +2,7 @@
 title: Sobre
 nav:
   order: 1
-  tooltip: Published works
+  tooltip:
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Sobre
