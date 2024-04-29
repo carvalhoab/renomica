@@ -49,7 +49,7 @@ A Rede tem projetos de pesquisa em doenças cardiovasculares hereditárias (DCH)
 
 {%
   include feature.html
-  image="images/image2.jpg"
+  image="images/image4.jpg"
   link="Projetos"
   title="Nossos projetos"
   flip=true
