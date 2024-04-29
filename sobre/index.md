@@ -13,16 +13,32 @@ A RENOMICA é um projeto coordenado pelo Instituto Nacional de Cardiologia em pa
 
 ## Quem financia?
 
-{% capture text %}
-
 A RENOMICA é financiada pelo Departamento de Ciência e Tecnologia da Secretaria de Ciência, Tecnologia e Inovação e do Complexo Econômico-Industrial da Saúde do Ministério de Saúde (Decit/SECTICS/MS), por meio do Programa Nacional de Genômica e Saúde de Precisão – Genomas Brasil, instituído pela Portaria GM/MS nº 1.949/2020.
 
-{% endcapture %}
+{% capture col1 %}
 
 {%
-  include feature.html
+  include figure.html
+  image="images/ms.png"
+%}
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include figure.html
+  image="images/decit.png"
+%}
+{% endcapture %}
+
+{% capture col3 %}
+
+{%
+  include figure.html
   image="images/genbr.png"
-  link="https://www.gov.br/saude/pt-br/composicao/sectics/decit/genomas-brasil"
-  %}
+%}
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 ## Quais instituições participam?
