@@ -64,7 +64,7 @@ A Rede conta com a contribuição de dezenas de profissionais de todo o país.
 {%
   include button.html
   link="team"
-  text="Conheça a equipe
+  text="Conheça a equipe"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
