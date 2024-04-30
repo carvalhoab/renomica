@@ -1,5 +1,6 @@
 ---
 ---
+{% include figure.html image="images/degrade.png" width="100%" %}
 
 A RENOMICA é uma iniciativa de cientistas e profissionais de saúde de todo o Brasil para desenvolver uma linha de cuidado em genômica cardiovascular para o SUS.
 
