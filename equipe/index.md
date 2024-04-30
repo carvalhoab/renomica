@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Equipe
 
-A RENOMICA só é possível porque tem a contribuição de inúmeros cientistas, médicos, biomédicos, enfermeiros, fisioterapeutas, farmacêuticos e biólogos espalhados pelo Brasil.
+A RENOMICA só é possível porque tem a contribuição de inúmeros cientistas, médicos, biomédicos, enfermeiros, fisioterapeutas, farmacêuticos e biólogos espalhados pelo Brasil. Conheça nossos profissionais.
 
 {% include section.html %}
 
