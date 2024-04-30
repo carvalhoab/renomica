@@ -2,7 +2,7 @@
 name: Adriana Carvalho
 image: images/equipe/fotoabc.jpg
 role: pi
-description: Coordenadora geral
+description: Coordenadora geral<br>UFRJ
 links:
   lattes: "6975079756933662"
 group: coord
