@@ -21,6 +21,8 @@ O estudo de doenças cardiovasculares hereditárias (DCH) começou em 2021 e o r
 
 As doenças investigadas neste projeto são:
 
+{% include figure.html image="images/disease.png" width="80%" %}
+
 Aortopatias
 
 1. Aneurismas e disseções da aorta torácica hereditários
