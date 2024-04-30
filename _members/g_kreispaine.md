@@ -2,7 +2,7 @@
 name: Gustavo Kreispaine
 image: images/fotogk.jpg
 role: phd
-description: Estudante de mestrado
+description: Mestrando
 links:
   lattes: 
 group: est
