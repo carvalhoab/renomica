@@ -9,14 +9,17 @@ nav:
 
 Baixe nossos e-books:
 
-{% include icon.html icon="fa-solid fa-feather-pointed" %}[O que é genética?](ebook1.pdf)
+{% include icon.html icon="fa-solid fa-feather-pointed" %} [O que é genética?](ebook1.pdf)
 
-{% include icon.html icon="fa-solid fa-feather-pointed" %}[O que é sequenciamento?](ebook2.pdf)
+{% include icon.html icon="fa-solid fa-feather-pointed" %} [O que é sequenciamento?](ebook2.pdf)
+
 
 Conheça nosso glossário de termos genéticos:
 
-{% include icon.html icon="fa-solid fa-feather-pointed" %}[Glossário](gloss.pdf)
+{% include icon.html icon="fa-solid fa-feather-pointed" %} [Glossário](gloss.pdf)
 
-# FAQs
+{% include section.html %}
+
+## FAQs
 
 Em breve
