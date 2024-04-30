@@ -1,7 +1,7 @@
 ---
 name: Bernardo Tura
 image: images/fotobrt.jpg
-role: ps
+role: programmer
 description: Cientista de dados
 links:
   lattes: 
