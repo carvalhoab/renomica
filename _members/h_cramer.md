@@ -5,4 +5,5 @@ description: Coordenadora científica
 role: pi
 links:
   lattes: 
+group: coord
 ---
