@@ -30,14 +30,6 @@ Aortopatias
 3. Síndrome de Loeys-Dietz
 4. Síndrome de Ehlers-Danlos (forma vascular)
 
-Canalopatias
-
-1. Síndrome do QT longo
-2. Síndrome do QT curto
-3. Síndrome de Brugada
-4. Doença progressiva da condução cardíaca
-5. Taquicardia ventricular polimórfica catecolaminérgica
-
 Cardiomiopatias
 
 1.  Hipertrófica
@@ -45,6 +37,14 @@ Cardiomiopatias
 3. Restritiva
 4. Não compactada
 5. Arritmogênica
+
+Canalopatias
+
+1. Síndrome do QT longo
+2. Síndrome do QT curto
+3. Síndrome de Brugada
+4. Doença progressiva da condução cardíaca
+5. Taquicardia ventricular polimórfica catecolaminérgica
 
 Hipercolesterolemia familiar
 
