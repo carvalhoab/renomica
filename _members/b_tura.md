@@ -5,4 +5,5 @@ role: programmer
 description: Cientista de dados
 links:
   lattes: 
+group: pesq
 ---
