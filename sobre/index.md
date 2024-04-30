@@ -55,6 +55,8 @@ A RENOMICA é financiada pelo Departamento de Ciência e Tecnologia da Secretari
 
 Além do Instituto Nacional de Cardiologia e do Centro de Pesquisa em Medicina de Precisão da UFRJ, as seguintes instituições participam do projeto:
 
+{% include figure.html image="images/mapa2.jpg" width="80%" %}
+
 Região Centro-Oeste
 
 1. Instituto de Cardiologia do Distrito Federal
