@@ -1,1 +1,1 @@
-Sitemap: https://carvalhoab.github.io/renomica/sitemap.xml
+Sitemap: http://www.renomica.org.br/sitemap.xml
