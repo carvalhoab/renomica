@@ -11,13 +11,13 @@ A RENOMICA só é possível porque tem a contribuição de inúmeros cientistas,
 
 {% include section.html %}
 
-## <center> COORDENADORES <center>
+## <center> COMITÊ GESTOR <center>
 
 {% include list.html data="members" component="portrait" filters="role: pi, group: coord" %}
 
 {% include section.html %}
 
-## <center> PROFISSIONAIS DE SAÚDE <center>
+## <center> PESQUISADORES <center>
 
 {% include list.html data="members" component="portrait" filters="role: programmer, group: pesq" %}
 
