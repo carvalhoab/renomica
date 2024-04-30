@@ -13,8 +13,8 @@ A RENOMICA só é possível porque tem a contribuição de inúmeros cientistas,
 
 ## <center> COORDENADORES <center>
 
-{% include list.html data="members/pi" component="portrait" filters="role: pi" %}
-{% include list.html data="members/pi" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
 {% include section.html %}
 
