@@ -2,7 +2,7 @@
 title: Equipe
 nav:
   order: 3
-  tooltip: Conheça a nossa equipe
+  tooltip: 
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Equipe
