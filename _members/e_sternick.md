@@ -5,4 +5,5 @@ role: pi
 description: Coordenador de Cardiologia
 links:
   lattes: 
+group: coord
 ---
