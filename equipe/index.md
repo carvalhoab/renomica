@@ -20,12 +20,12 @@ A RENOMICA só é possível porque tem a contribuição de inúmeros cientistas,
 
 ## <center> PROFISSIONAIS DE SAÚDE <center>
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: ps" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!ps$)" %}
 
 {% include section.html %}
 
 ## <center> ESTUDANTES <center>
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: es" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!es$)" %}
