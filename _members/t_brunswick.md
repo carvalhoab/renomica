@@ -5,4 +5,5 @@ role: pi
 description: Coordenadora adjunta
 links:
   lattes: 
+group: coord
 ---
