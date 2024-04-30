@@ -1,7 +1,7 @@
 ---
 name: Julia Bispo
 image: images/fotojmbs.jpg
-role: es
+role: phd
 description: Estudante de doutorado
 links:
   lattes: 
