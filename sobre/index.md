@@ -53,7 +53,7 @@ A RENOMICA é financiada pelo Departamento de Ciência e Tecnologia da Secretari
 
 ## Quais instituições participam?
 
-Além do Instituto Nacional de Cardiologia e do Centro de Pesquisa em Medicina de Precisão da UFRJ, as seguintes instituições participam do projeto:
+As seguintes instituições participam do projeto:
 
 {% include figure.html image="images/mapa2.jpg" width="80%" %}
 
@@ -77,13 +77,15 @@ Região Sudeste
 
 1. Hospital Felício Rocho
 2. Hospital Governador Israel Pinheiro
-3. Instituto de Pediatria e Puericultura Martagão Gesteira
-4. Universidade de São Paulo
-5. Universidade do Estado do Rio de Janeiro
-6. Universidade Estadual de Campinas
-7. Universidade Federal Fluminense
-8. Universidade Federal de São Paulo
-9. Universidade Vale do Rio Doce
+3. Hospital Universitário Clementino Fraga Filho
+4. Instituto de Pediatria e Puericultura Martagão Gesteira
+5. Instituto Nacional de Cardiologia
+6. Universidade de São Paulo
+7. Universidade do Estado do Rio de Janeiro
+8. Universidade Estadual de Campinas
+9. Universidade Federal Fluminense
+10. Universidade Federal de São Paulo
+11. Universidade Vale do Rio Doce
 
 Região Sul
 
