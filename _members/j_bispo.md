@@ -5,4 +5,5 @@ role: phd
 description: Estudante de doutorado
 links:
   lattes: 
+group: est
 ---
