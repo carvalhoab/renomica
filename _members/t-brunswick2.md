@@ -1,7 +1,7 @@
 ---
-name: Tais Brunswick
-image: images/fotothkb.jpg
-description: Coordenadora adjunta
+name: Helena Cramer
+image: images/fotohcvr.jpg
+description: Coordenadora científica
 role: pi
 links:
   lattes: 
