@@ -66,7 +66,7 @@ A Rede tem projetos de pesquisa em doenças cardiovasculares hereditárias e doe
 
 {% capture text %}
 
-A Rede conta com a contribuição de dezenas de profissionais de todo o país.
+A RENOMICA conta com a contribuição de dezenas de profissionais de todo o país.
 
 {%
   include button.html
