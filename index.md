@@ -18,7 +18,7 @@ A RENOMICA é uma iniciativa de cientistas e profissionais de saúde de todo o B
 
 {% capture text %}
 
-Fazemos sequenciamento de DNA de pacientes do SUS com doenças cardiovasculares. Nossos valores são: ciência, ética, excelência, respeito à autonomia e bem-estar dos pacientes.
+Fazemos sequenciamento de DNA de pacientes do SUS com doenças cardiovasculares. Nossos valores são: ciência, ética, excelência, e respeito à autonomia e bem-estar dos pacientes.
 
 {%
   include button.html
