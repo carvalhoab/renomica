@@ -17,9 +17,9 @@ Este projeto investiga a herdabilidade da doença arterial coronariana (DAC) na 
 
 ## RENOMICA-DCH
 
-O estudo de doenças cardiovasculares hereditárias (DCH) começou em 2021 e e o recrutamento foi concluído em 2023. Os dados estão em análise e estamos trabalhando no retorno de resultados para todos os participantes. Em breve, reabriremos o recrutamento do projeto em sua segunda fase, em parceria com o Hcor.
+O estudo de doenças cardiovasculares hereditárias (DCH) começou em 2021 e o recrutamento foi concluído em 2023. Os dados estão em análise e estamos trabalhando no retorno de resultados para todos os participantes. Em breve, reabriremos o recrutamento do projeto em sua segunda fase, em parceria com o Hcor.
 
-As doenças investigadas nesse projeto são:
+As doenças investigadas neste projeto são:
 
 Aortopatias
 
