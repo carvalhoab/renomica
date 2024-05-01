@@ -11,7 +11,7 @@ No momento, a RENOMICA está desenvolvendo dois projetos.
 
 ## RENOMICA-DAC
 
-Este projeto investiga a herdabilidade da doença arterial coronariana (DAC) na população brasileira. Queremos entender como fatores genéticos aumentam o risco dessa doença. Em breve, iniciaremos o recrutamento de participantes no Instituto Nacional de Cardiologia. Este projeto faz parte do Genomas SUS.
+Este projeto investiga a herdabilidade da doença arterial coronariana (DAC) na população brasileira. Queremos entender como fatores genéticos aumentam o risco dessa doença. Em breve, iniciaremos o recrutamento de participantes no Instituto Nacional de Cardiologia. Este projeto faz parte do [Genomas SUS(https://genomassus.github.io/).
 
 {% include section.html %}
 
