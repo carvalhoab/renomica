@@ -23,6 +23,6 @@ A RENOMICA só é possível porque tem a contribuição de inúmeros cientistas,
 
 {% include section.html %}
 
-## <center> ESTUDANTES <center>
+## <center> PÓS-GRADUANDOS <center>
 
 {% include list.html data="members" component="portrait" filters="role: phd, group: est" %}
