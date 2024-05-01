@@ -20,6 +20,6 @@ Conheça nosso glossário de termos genéticos:
 
 {% include section.html %}
 
-## FAQs
+## PERGUNTAS FREQUENTES
 
 Em breve
